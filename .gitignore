@@ -3,4 +3,5 @@ project.lock.json
 bin/
 obj/
 .vs/
+.git-old/
 node_modules/
